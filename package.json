@@ -2,7 +2,7 @@
   "name": "qr",
   "version": "1.0.0",
   "description": "",
-  "main": "qr.js",
+  "main": "web.js",
   "dependencies": {
     "qr-image": "^3.2.0"
   },
